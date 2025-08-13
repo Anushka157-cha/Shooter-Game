@@ -1,11 +1,3 @@
-_author__ = "Rishav Gupta"
-__copyright__ = "Copyright (C) 2016 Rishav Gupta"
-__license__ = "Public Domain"
-__version__ = "1.0"
-
-
-
-
 import pygame
 import random
 from os import path
@@ -596,6 +588,7 @@ while not gameExit:
     draw_shield(gameDisplay,5,5,player.shield)
     draw_lives(gameDisplay,display_width-100,5,player_mini,player.lives)
     pygame.display.flip()
+
 
 
 pygame.quit()
