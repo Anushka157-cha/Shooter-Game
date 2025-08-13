@@ -6,23 +6,13 @@ Is game me aapko apne spaceship ko enemies aur meteoroids se bachana hota hai, p
 Spaceship Controls – Left/Right movement aur shooting system
 
 Enemies & Meteoroids – Random speed aur spawn location
-
 Power-ups – Shield increase aur double-gun mode
-
 Explosions – Animated explosion effects enemies ke destruction pe
-
 Lives & Shield System – Player ke paas multiple lives aur shield hota hai
-
 Pause, About, Controls Menu
-
 Background Music & Sound Effects
 
-🕹 Controls
-Action	Key(s)
-Move Left	A / ←
-Move Right	D / →
-Shoot	Spacebar / Mouse Left Click
-Pause Game	Esc
+
 Continue	C (Pause menu me)
 Quit	Q
 Main Menu	0
@@ -43,6 +33,7 @@ Defender/
 │── regularExplosion0*.png
 │── sonicExplosion0*.png
 │── README.md           # This file
+
 ⚙ Installation & Running
 Requirements:
 Python 3.x
