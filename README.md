@@ -48,8 +48,12 @@ Run the Game:python defender.py
 
 💡 How to Play
 Game start hone ke baad Play (P) dabao.
+
 Left/Right arrow keys se spaceship move karo.
+
 Spacebar ya mouse click se enemies aur meteoroids ko shoot karo.
+
 Shield aur gun power-ups collect karo.
+
 Apne lives bachao, warna game over!
 
